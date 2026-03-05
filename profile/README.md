@@ -2,12 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?text=Academic%20Projects&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
 
-<h1 align="center">Computer Science Academic Projects</h1>
+<h1 align="center">Simone Siega — Computer Science Academic Projects</h1>
 
 <p align="center">
-  Academic software projects developed during my Computer Science studies.
-
-  This organization archives coursework implementations, technical experiments, and exploratory prototypes built while learning core CS concepts.
+  Academic software projects developed during my Computer Science studies.<br>
+  This organization archives coursework implementations, technical experiments, and exploratory prototypes created while learning core computer science concepts.
 </p>
 
 ## 📚 About This Organization
