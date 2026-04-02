@@ -1,61 +1,47 @@
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?text=Academic%20Projects&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&vCenter=true&width=800&lines=Welcome+to+my+Academic+Projects+%F0%9F%8E%93" alt="Welcome to my Academic Projects 🎓" />
+</h1>
+
+<p>
+  Academic projects developed throughout my Computer Science studies, spanning coursework, technical experiments, and exploratory prototypes.
 </p>
 
-<h1 align="center">Simone Siega — Computer Science Academic Projects</h1>
-
-<p align="center">
-  Academic software projects developed during my Computer Science studies.<br>
-  This organization archives coursework implementations, technical experiments, and exploratory prototypes created while learning core computer science concepts.
+<p>
+  <a href="https://github.com/simonesiega"><strong>Main GitHub</strong></a> ·
+  <a href="https://simonesiega.com"><strong>Portfolio</strong></a> ·
+  <a href="https://www.linkedin.com/in/simonesiega"><strong>LinkedIn</strong></a> ·
+  <a href="mailto:simonesiega1@gmail.com"><strong>Email</strong></a>
 </p>
 
-## 📚 About This Organization
+<p><em>This organization collects projects built across my academic journey, documenting my learning path through core computer science topics.</em></p>
 
-This GitHub organization contains projects developed throughout my academic journey, including both high school and university coursework.
-
-The repositories document the implementation of theoretical concepts studied in computer science, along with technical experiments exploring different technologies, programming paradigms, and system architectures.
-
-## Topics Covered
-
-Projects in this organization explore several areas of computer science, including:
-
-> Algorithms & Data Structures  
-> Operating Systems  
-> Computer Networks  
-> Databases & SQL  
-> Mobile Development (Flutter)  
-> Software Engineering  
-> Web Development (PHP)  
-> Experimental AI prototypes (LLM, RAG, Ollama)  
-> Game Development (Godot)
-
-## Technologies Used Across Projects
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,python,javascript,php,flutter,dart,html,css,mysql,postgres,git,github,godot&theme=dark" />
-</p>
-
-
-## 🚀 Main Profile & Portfolio
-
-Production-ready projects, personal work, and portfolio projects can be found on my main GitHub profile and personal website.
-
-<p align="center">
-  <a href="https://simonesiega.com">
-    <img src="https://img.shields.io/badge/Portfolio-simonesiega.com-1f6feb?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/simonesiega">
-    <img src="https://img.shields.io/badge/Main_GitHub_Profile-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:simonesiega1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/697499122655035412">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+```ts
+const academicProjects = {
+  owner: "Simone Siega",
+  focus: [
+    "Algorithms & Data Structures",
+    "Operating Systems",
+    "Computer Networks",
+    "Databases & SQL",
+    "Software Engineering",
+    "Web Development",
+    "Mobile Development",
+    "Experimental AI",
+    "Game Development",
+  ],
+  builtWith: [
+    "Java",
+    "Rust",
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "PHP",
+    "Flutter",
+    "Dart",
+    "MySQL",
+    "PostgreSQL",
+    "Godot",
+  ],
+  purpose: "Archive academic work, experiments, and learning projects",
+};
+```
